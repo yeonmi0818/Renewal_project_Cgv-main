@@ -60,7 +60,7 @@
 ```
 Renewal_project_Cgv/<br>
 ├─ common.html             			# 메인 페이지
-├─ index.html           				# 메인 페이지
+├─ index.html										# 메인 페이지
 ├─ login.html             			# 로그인 페이지
 ├─ movies_intro.html        		# 베너
 ├─ movies.html              		# 뉴스·이벤트
