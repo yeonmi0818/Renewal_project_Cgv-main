@@ -24,14 +24,14 @@
 ## 2. 개발 환경
 ---------------------------
 ### 2.1 기술 스택
-+ Language: HTML, CSS, JavaScript, Jquery
-+ Design Tool: Figma
-+ Version Control: Git & GitHub
-+ Deployment: GitHub Pages
++ **Language**: HTML, CSS, JavaScript, Jquery
++ **Design Tool**: Figma
++ **Version Control**: Git & GitHub
++ **Deployment**: GitHub Pages
 
 ## 3. 주요기능
 ---------------------------
-+ 메인 페이지
++ **메인 페이지**
 	+ 비주얼(메인 배너)
 	+ 영화 랭킹
 	+ 상영 예정작
@@ -42,12 +42,12 @@
 	+ 앱 다운로드
 	+ 풋터
 
-+ 서브페이지
++ **서브페이지**
 	+ 로그인/회원가입 페이지
 	+ 영화 정보 페이지
 	+ 영화 예매 페이지
 
-+ UI/UX 요소
++ **UI/UX 요소**
 	+ 반응형 화면
 	+ 컨포넌트 애니메이션
 	+ 이미지 슬라이드
@@ -106,6 +106,7 @@ Renewal_project_Cgv/<br>
 
 ## 5. 실행 방법
 ---------------------------
+```bash
 ### 1. 프로젝트 클론
 git clone https://github.com/yeonmi0818/Renewal_project_Cgv.git
 
@@ -113,6 +114,8 @@ git clone https://github.com/yeonmi0818/Renewal_project_Cgv.git
 cd Renewal_project_Cgv
 
 ### 3. index.html을 브라우저로 열기
+```
+※ 로컬 서버에서 실행하려면 VS Code의 Live Server 확장 등을 사용하면 편리합니다.
 
 ## 6. 향후 개선 사항
 + CSS 변수/SCSS 적용으로 유지보수성 강화
@@ -122,3 +125,36 @@ cd Renewal_project_Cgv
 
 ## 7. 미리 보기
 ![미리보기](/images/thumbnail.png)
+
+---
+## 8. 🗓️마일스톤
+
+```mermaid
+gantt
+    title CGV 간트 차트
+    dateFormat  YYYY-MM-DD
+    excludes    weekends
+
+
+    section 기획/설계
+    자료조사·방향설정           :a1, 2025-05-09, 9d
+    스케치/스토리보드           :a2, after a1, 5d
+    발표자료                   :a3, after a2, 2d
+    스타일 가이드              :a4, after a3, 7d
+    Figma 와이어·디자인        :a5, after a4, 9d
+
+
+    section 구현(핵심)
+    컨벤션 구축 / 파트 분배     :b1, 2025-05-21, 1d
+    파트별 코딩           :b2, after b1, 50d
+
+
+    section 품질
+    SEO/OG·성능·접근성         :c1, 2025-07-8, 3d
+    테스트(E2E)·에러관측       :c2, after c1, 4d
+
+    section 릴리스
+    문서화·시연자료 :d1, 2025-07-14, 1d
+```
+
+---
