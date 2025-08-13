@@ -1,12 +1,12 @@
 # Renewal_project_Cgv
 
 ### 과정명 : 프로젝트 기반 프론트엔드 개발자 양성
-+ 기간: 2025/03/24 ~ 2025/09/24
-+ 3차 프로젝트: 2025/08/27 ~ 2025/09/19
++ 기간 : 2025/03/24 ~ 2025/09/24
++ 3차 프로젝트 : 2025/08/27 ~ 2025/09/19
 
 ## 빠른 링크
-+ 📑 기획서(피그마 슬라이드): https://www.figma.com/slides/xhYQIPhYWHqIumk73Xyssf/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-ppt?node-id=497-950&t=ydlMAr5EYNppukV7-1
-+ 🎨 디자인 원본(피그마): https://www.figma.com/design/cNWqo63kkdZgcqTbzLOIxy/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-%EB%93%9C%EB%9E%98%ED%94%84%ED%8A%B8?node-id=151-92&t=aanZ6ST0G3ZiyQq4-1
++ 📑 기획서(피그마 슬라이드) : https://www.figma.com/slides/xhYQIPhYWHqIumk73Xyssf/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-ppt?node-id=497-950&t=ydlMAr5EYNppukV7-1
++ 🎨 디자인 원본(피그마) : https://www.figma.com/design/cNWqo63kkdZgcqTbzLOIxy/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-%EB%93%9C%EB%9E%98%ED%94%84%ED%8A%B8?node-id=151-92&t=aanZ6ST0G3ZiyQq4-1
 + 🌐 배포 URL: 
 
 ---
