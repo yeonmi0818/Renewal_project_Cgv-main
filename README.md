@@ -9,6 +9,7 @@
 + 🎨 디자인 원본(피그마): https://www.figma.com/design/cNWqo63kkdZgcqTbzLOIxy/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-%EB%93%9C%EB%9E%98%ED%94%84%ED%8A%B8?node-id=151-92&t=aanZ6ST0G3ZiyQq4-1
 + 🌐 배포 URL: 
 
+---
 ## 1. 프로젝트 개요
 ### 1.1 목표
 + 개인 작업물 전시: 프론트엔드 과정 수료 후 제작한 프로젝트와 포트폴리오를 한 곳에 모아 소개
@@ -23,6 +24,7 @@
 | 김영태 | 기획/퍼블리싱/개발/디자인 | 프로젝트 기획, 메인 페이지, 영화 상세 페이지 제작 | @kyt0830 |  |
 | 박연미 | 기획/퍼블리싱/개발/디자인 | 프로젝트 기획, 메인 페이지, 티켓 예매 페이지 제작 | @yeonmi0818 | parkyunme@naver.com |
 
+---
 ## 2. 개발 환경
 ### 2.1 기술 스택
 + **Language**: HTML, CSS, JavaScript, Jquery
@@ -30,8 +32,8 @@
 + **Version Control**: Git & GitHub
 + **Deployment**: GitHub Pages
 
+---
 ## 3. 주요기능
----------------------------
 + **메인 페이지**
 	+ 비주얼(메인 배너)
 	+ 영화 랭킹
@@ -53,8 +55,8 @@
 	+ 컨포넌트 애니메이션
 	+ 이미지 슬라이드
 
+---
 ## 4. 폴더 구조
----------------------------
 ```
 Renewal_project_Cgv/<br>
 ├─ common.html             			# 메인 페이지 <br>
@@ -104,9 +106,8 @@ Renewal_project_Cgv/<br>
 │  └─ ... <br>
 └─ README.md <br>
 ```
-
+---
 ## 5. 실행 방법
----------------------------
 ```bash
 ### 1. 프로젝트 클론
 git clone https://github.com/yeonmi0818/Renewal_project_Cgv.git
@@ -118,12 +119,14 @@ cd Renewal_project_Cgv
 ```
 ※ 로컬 서버에서 실행하려면 VS Code의 Live Server 확장 등을 사용하면 편리합니다.
 
+---
 ## 6. 향후 개선 사항
 + CSS 변수/SCSS 적용으로 유지보수성 강화
 + JavaScript 모듈화 및 코드 최적화
 + 접근성(A11y) 개선
 + 이미지 최적화로 로딩 속도 향상
 
+---
 ## 7. 미리 보기
 ![미리보기](/images/thumbnail.png)
 
