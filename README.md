@@ -121,4 +121,4 @@ cd Renewal_project_Cgv
 + 이미지 최적화로 로딩 속도 향상
 
 ## 7. 미리 보기
-[![미리보기](/images/thumbnail.png)]
+![미리보기](/images/thumbnail.png)
