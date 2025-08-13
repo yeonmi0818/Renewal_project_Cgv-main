@@ -52,7 +52,7 @@
 	+ 컨포넌트 애니메이션
 	+ 이미지 슬라이드
 
-### 4. 폴더 구조
+## 4. 폴더 구조
 ---------------------------
 Renewal_project_Cgv/<br>
 ├─ common.html             			# 메인 페이지 <br>
@@ -102,17 +102,17 @@ Renewal_project_Cgv/<br>
 │  └─ ... <br>
 └─ README.md <br>
 
-### 5. 실행 방법
+## 5. 실행 방법
 ---------------------------
-# 1. 프로젝트 클론
+### 1. 프로젝트 클론
 git clone https://github.com/yeonmi0818/Renewal_project_Cgv.git
 
-# 2. 프로젝트 폴더로 이동
+### 2. 프로젝트 폴더로 이동
 cd Renewal_project_Cgv
 
-# 3. index.html을 브라우저로 열기
+### 3. index.html을 브라우저로 열기
 
-### 6. 향후 개선 사항
+## 6. 향후 개선 사항
 + CSS 변수/SCSS 적용으로 유지보수성 강화
 + JavaScript 모듈화 및 코드 최적화
 + 접근성(A11y) 개선
