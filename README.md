@@ -1,17 +1,15 @@
 # Renewal_project_Cgv
----------------------------
+
 ### 과정명 : 프로젝트 기반 프론트엔드 개발자 양성
 + 기간: 2025/03/24 ~ 2025/09/24
 + 3차 프로젝트: 2025/08/27 ~ 2025/09/19
 
 ## 빠른 링크
----------------------------
 + 📑 기획서(피그마 슬라이드): https://www.figma.com/slides/xhYQIPhYWHqIumk73Xyssf/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-ppt?node-id=497-950&t=ydlMAr5EYNppukV7-1
 + 🎨 디자인 원본(피그마): https://www.figma.com/design/cNWqo63kkdZgcqTbzLOIxy/%EC%82%BC%EB%8F%8C%EC%9D%B4%ED%8C%80-%EB%93%9C%EB%9E%98%ED%94%84%ED%8A%B8?node-id=151-92&t=aanZ6ST0G3ZiyQq4-1
 + 🌐 배포 URL: 
 
 ## 1. 프로젝트 개요
----------------------------
 ### 1.1 목표
 + 개인 작업물 전시: 프론트엔드 과정 수료 후 제작한 프로젝트와 포트폴리오를 한 곳에 모아 소개
 + 실서비스형 구현: Next.js App Router와 Supabase를 활용한 인증, 데이터 관리, 파일 업로드 기능 포함
@@ -26,7 +24,6 @@
 | 박연미 | 기획/퍼블리싱/개발/디자인 | 프로젝트 기획, 메인 페이지, 티켓 예매 페이지 제작 | @yeonmi0818 | parkyunme@naver.com |
 
 ## 2. 개발 환경
----------------------------
 ### 2.1 기술 스택
 + **Language**: HTML, CSS, JavaScript, Jquery
 + **Design Tool**: Figma
