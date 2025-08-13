@@ -110,7 +110,7 @@ Renewal_project_Cgv/<br>
 ## 5. 실행 방법
 ```bash
 ### 1. 프로젝트 클론
-git clone https://github.com/yeonmi0818/Renewal_project_Cgv.git
+git clone https://github.com/yeonmi0818/Renewal_project_Cgv-main.git
 
 ### 2. 프로젝트 폴더로 이동
 cd Renewal_project_Cgv
@@ -149,8 +149,8 @@ gantt
 
 
     section 구현(핵심)
-    컨벤션 구축 / 파트 분배     :b1, 2025-05-21, 1d
-    파트별 코딩           :b2, after b1, 50d
+    컨벤션 구축 / 파트 분배     :b1, 2025-06-10, 1d
+    파트별 코딩           :b2, after b1, 30d
 
 
     section 품질
