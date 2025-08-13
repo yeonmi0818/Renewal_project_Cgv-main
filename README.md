@@ -54,6 +54,7 @@
 
 ## 4. 폴더 구조
 ---------------------------
+```
 Renewal_project_Cgv/<br>
 ├─ common.html             			# 메인 페이지 <br>
 ├─ index.html           				# 메인 페이지 <br>
@@ -101,6 +102,7 @@ Renewal_project_Cgv/<br>
 │  ├─ popup/ <br>
 │  └─ ... <br>
 └─ README.md <br>
+```
 
 ## 5. 실행 방법
 ---------------------------
@@ -117,3 +119,6 @@ cd Renewal_project_Cgv
 + JavaScript 모듈화 및 코드 최적화
 + 접근성(A11y) 개선
 + 이미지 최적화로 로딩 속도 향상
+
+## 7. 미리 보기
+[![미리보기](./images/thumbnail.jpg)]
