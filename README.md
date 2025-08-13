@@ -57,11 +57,11 @@
 
 ### 4. 폴더 구조
 ---------------------------
-Renewal_project_Cgv/
-├─ common.html             			# 메인 페이지
-├─ index.html           				# 메인 페이지
-├─ login.html             			# 로그인 페이지
-├─ movies_intro.html        		# 베너
+Renewal_project_Cgv/<br>
+├─ common.html             			# 메인 페이지 <br>
+├─ index.html           				# 메인 페이지<br>
+├─ login.html             			# 로그인 페이지<br>
+├─ movies_intro.html        		# 베너<br>
 ├─ movies.html              		# 뉴스·이벤트
 ├─ policy.html            			# 정책
 ├─ reservation_confirm.html 		# 예매 완료 페이지
