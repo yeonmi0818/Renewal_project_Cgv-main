@@ -59,52 +59,52 @@
 ## 4. 폴더 구조
 ```
 Renewal_project_Cgv/<br>
-├─ common.html             			# 메인 페이지 <br>
-├─ index.html           				# 메인 페이지 <br>
-├─ login.html             			# 로그인 페이지 <br>
-├─ movies_intro.html        		# 베너 <br>
-├─ movies.html              		# 뉴스·이벤트 <br>
-├─ policy.html            			# 정책 <br>
-├─ reservation_confirm.html 		# 예매 완료 페이지 <br>
-├─ signup.html            			# 회원가입 페이지 <br>
-├─ ticket_seat.html        			# 좌석선택 페이지 <br>
-├─ ticket.html            			# 티켓예매 페이지 <br>
-├─ css/ <br>
-│  ├─ reset.css <br>
-│  ├─ commmon.css <br>
-│  ├─ main.css <br>
-│  ├─ header.css <br>
-│  ├─ footer.css <br>
-│  ├─ login.css <br>
-│  ├─ signup.css <br>
-│  ├─ movies_intro.css <br>
-│  ├─ movies.css <br>
-│  ├─ ticket.css <br>
-│  ├─ ticket_seat.css <br>
-│  └─ reservation_confirm.css <br>
-├─ js/ <br>
-│  ├─ common.js <br>
-│  ├─ main.js <br>
-│  ├─ login.js <br>
-│  ├─ signup.js <br>
-│  ├─ ticket.js <br>
-│  ├─ ticket_seat.js <br>
-│  └─ reservation_confirm.js <br>
-├─ js/ <br>
-│  ├─ rankd.json <br>
-│  ├─ recommend.json <br>
-│  ├─ login.json <br>
-│  ├─ slides.json <br>
-│  └─ ticket.json <br>
-├─ images/ <br>
-│  ├─ cinema/ <br>
-│  ├─ event_zone/ <br>
-│  ├─ login/ <br>
-│  ├─ mousecursor/ <br>
-│  ├─ plan/ <br>
-│  ├─ popup/ <br>
-│  └─ ... <br>
-└─ README.md <br>
+├─ common.html             			# 메인 페이지
+├─ index.html           				# 메인 페이지
+├─ login.html             			# 로그인 페이지
+├─ movies_intro.html        		# 베너
+├─ movies.html              		# 뉴스·이벤트
+├─ policy.html            			# 정책
+├─ reservation_confirm.html 		# 예매 완료 페이지
+├─ signup.html            			# 회원가입 페이지
+├─ ticket_seat.html        			# 좌석선택 페이지
+├─ ticket.html            			# 티켓예매 페이지
+├─ css/
+│  ├─ reset.css
+│  ├─ commmon.css
+│  ├─ main.css
+│  ├─ header.css
+│  ├─ footer.css
+│  ├─ login.css
+│  ├─ signup.css
+│  ├─ movies_intro.css
+│  ├─ movies.css
+│  ├─ ticket.css
+│  ├─ ticket_seat.css
+│  └─ reservation_confirm.css
+├─ js/
+│  ├─ common.js
+│  ├─ main.js
+│  ├─ login.js
+│  ├─ signup.js
+│  ├─ ticket.js
+│  ├─ ticket_seat.js
+│  └─ reservation_confirm.js
+├─ js/
+│  ├─ rankd.json
+│  ├─ recommend.json
+│  ├─ login.json
+│  ├─ slides.json
+│  └─ ticket.json
+├─ images/
+│  ├─ cinema/
+│  ├─ event_zone/
+│  ├─ login/
+│  ├─ mousecursor/
+│  ├─ plan/
+│  ├─ popup/
+│  └─ ...
+└─ README.md
 ```
 ---
 ## 5. 실행 방법
